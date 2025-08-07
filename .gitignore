@@ -3,3 +3,6 @@
 
 # Ignore the entire .vscode folder and its contents
 .vscode/
+
+#Ignore the all exe files too
+*.exe
