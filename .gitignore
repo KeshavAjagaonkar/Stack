@@ -1,1 +1,5 @@
+# Ignore all files ending with .txt
+*.txt
 
+# Ignore the entire .vscode folder and its contents
+.vscode/
